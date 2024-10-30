@@ -1,0 +1,1957 @@
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 17] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 17]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 17]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 37]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 38]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 39]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 40]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 41]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 12]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 12]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 13] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 13]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 21] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 21]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 11] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 11]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 6] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 8] [Storage Size: 6]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 6]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 11] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 11]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 11] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 11]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 16] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 16]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 38]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 39]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 16]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 72]  [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 73]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 14]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 14]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 13] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 13]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 21] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 21]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 3] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 3]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 41]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 3]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 21]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 13] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 13]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 14] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 14]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 14]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 14]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 14]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 12] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 12]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 37]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 40]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 12]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 42]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 43]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 10]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 10]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 14] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 14]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 42]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 14]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 74]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 13]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 13]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 73]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 7] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 72]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 65]  [Location: Port Royal 2]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 66]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 6] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 13] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 43]  [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 66]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 24]  [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 25]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 11]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 11]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 74]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 22]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 1] [Storage Size: 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 1]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 21] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 21]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 65]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 21] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 21]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 0]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 20]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 6] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 21]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 88]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 24]  [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 25]  [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 22]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 67]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 68]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 69]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 1] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 1]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 68]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 1]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 23]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 20] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 20]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 11] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 69]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 26]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 10]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 10]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 10] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 10]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 26]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 10]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 27]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 9]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 9]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 10] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 10]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 0]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 88]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 67]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 10]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 44]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 45]  [Location: Port Royal 2]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 46]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 7]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 7]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 27]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 89]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 8] [Storage Size: 4]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 4]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 44]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 46]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 4] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 4]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 89]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 4]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 90]  [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 91]  [Location: Port Royal 2]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 92]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 8] [Storage Size: 1]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 1]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 20] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 20]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 1] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 1]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 92]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 1]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 93]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 7] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 7]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 7]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 93]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 11] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 23]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 54]  [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 55]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 9]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 9]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 54]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 70]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 6] [Storage Size: 1]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 1]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 9] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 9]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 90]  [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 55]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 9]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 28]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 29]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 7]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 7]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 1] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 1]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 1]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 6] [Storage Size: 1]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 1]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 7] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 29]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 30]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 6]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 6]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 45]  [Location: Port Royal 2]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 91]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 20] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 20]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 1]  [Location: Port Royal 2]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 2]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 2]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 13] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 75]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 12]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 12]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 1]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 6] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 31]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 9] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 9]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 75]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 9]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 56]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 8]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 8]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 12] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 12]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 31]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 12]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 76]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 11]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 11]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 56]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 32]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 4]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 4]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 4] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 4]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 4]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 4]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 4]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 11] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 76]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 77]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 10]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 10]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 7] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 70]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 28]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 47]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 48]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 48]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 8] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 8]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 32]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 8]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 57]  [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 58]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 6]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 6]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 4] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 4]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 57]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 4]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 33]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 3] [Storage Size: 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 3]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 77]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 47]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 6] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 58]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 59]  [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 60]  [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 61]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 3]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 3]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 3] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 3]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 59]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 3]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 62]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 1] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 1]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 30]  [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 33]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 1]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 71]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 10] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 10]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 10]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 78]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 9]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 9]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 71]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 49]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 4]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 3] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 3]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 60]  [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 62]  [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 78]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 3]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 3]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 34]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 35]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 36]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 9] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 9]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 34]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 36]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 9]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 79]  [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 80]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 7]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 4] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 4]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 80]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 4]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 50]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 3]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 3]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 49]  [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 79]  [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 50]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 63]  [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 64]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 7] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 81]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 6]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 6]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 18]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 63]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 61]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 35]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 64]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 81]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 18] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 18]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 3]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 4]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 5]  [Location: Port Royal 2]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 6]  [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 7]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 13]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 13]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 3] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 3]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 6]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 3]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 51]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 4] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 51]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 5]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 13] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 13]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 8]  [Location: Port Royal 8]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 9]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 11]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 11]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 7]  [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 8]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 4]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 52]  [Location: Port Royal 2]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 53]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 52]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 9]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 53]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 11] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 11]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 10]  [Location: Port Royal 6]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 11]  [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 12]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 8]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 8]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 10]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 8] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 8]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 8]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 13]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 7]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 7]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 11]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 6] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 3]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 4]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 12]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 6]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 82]  [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 83]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 84]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 85]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 7] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 13]  [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 84]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 83]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 86]  [Location: Port Royal 1]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 87]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 86]  [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 7] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 7]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 3] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 14]  [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 15]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 5]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 5]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 82]  [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 85]  [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 14]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 5] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 5]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 16]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 17]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 18]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - No free cargo space on ship: Nautilus 0  used [5/ 5]
+2020-03-22 - Warning: Harbor - Stop loading ship (no free space): Harbor [ID: Port Royal 0] [Storage Size: 2]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 2]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 5] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 18]  [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 4] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 16]  [Location: Port Royal 7]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 17]  [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 87]  [Location: Port Royal 2]
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 15]  [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 1] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 1] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 1]
+2020-03-22 - Debug: Owner [ID: Owner 1] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 1] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 7] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 7] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 7]
+2020-03-22 - Debug: Owner [ID: Owner 7] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 7] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 8] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 0] [Storage Size: 2] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 0]
+2020-03-22 - Debug: Owner [ID: Owner 0] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Warning: Harbor - NO cargo to unload
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 0] [Storage Size: 2]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 0] [Location: Port Royal 0]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 19]  [Location: Port Royal 5]
+2020-03-22 - Info: Ship - Load Cargo: CargoContainer [ID: Cargo 20]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 0] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 0] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 2] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 19]  [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 4] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 4] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 4]
+2020-03-22 - Debug: Owner [ID: Owner 4] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 4] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 2] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 2] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 2]
+2020-03-22 - Debug: Owner [ID: Owner 2] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 2] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 5] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Warning: Ship - Already in destination harbor
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 5] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 5]
+2020-03-22 - Debug: Owner [ID: Owner 5] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 5] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 3] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 3] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 3]
+2020-03-22 - Debug: Owner [ID: Owner 3] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 3] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 6] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
+2020-03-22 - Info: Harbor - Load ship in harbor: Harbor [ID: Port Royal 6] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Load Ship with cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 6]
+2020-03-22 - Debug: Owner [ID: Owner 6] - harbor action:
+2020-03-22 - Info: Ship - Travel from   {Harbor [ID: Port Royal 6] [Storage Size: 0]}   to   {Harbor [ID: Port Royal 8] [Storage Size: 0] }
+2020-03-22 - Info: Harbor - Unload ship in harbor: Harbor [ID: Port Royal 8] [Storage Size: 0]
+2020-03-22 - Info: Harbor - Unload Ship and deliver cargo: SmallContainerShip [ID: Nautilus 0] [Storage Size: 1] [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Owner 8] - ship action: Extra fee for SmallContainerShip ID:Nautilus 0
+2020-03-22 - Info: Ship - Unload Cargo: CargoContainer [ID: Cargo 20]  [Location: Port Royal 8]
+2020-03-22 - Debug: Owner [ID: Captain Nemo 9] - ship action:
